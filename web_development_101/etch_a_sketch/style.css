@@ -1,0 +1,13 @@
+.container {
+  display: inline-flex;
+  width: 80%;
+  height: 800px;
+  border: 2px solid black;
+  margin: auto;
+}
+
+.box {
+width: 10%;
+height: 10%;
+border: 1px solid black;
+}
